@@ -8,6 +8,15 @@
 \description{
 The goal of demopkg is to practice making a package.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/kai-lim/demopkg}
+  \item \url{https://kai-lim.github.io/demopkg/}
+  \item Report bugs at \url{https://github.com/kai-lim/demopkg/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Kai Lim \email{kxlim94@gmail.com}
 
