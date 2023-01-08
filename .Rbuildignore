@@ -1,0 +1,9 @@
+^demopkg\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^data-raw$
+^doc$
+^Meta$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
